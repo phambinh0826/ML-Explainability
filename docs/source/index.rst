@@ -1,22 +1,35 @@
-Welcome to Lumache's documentation!
-===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+Chào mừng đến với khóa học Giải Thích Mô Hình Học Máy!
+=======================================================
 
 Contents
---------
+========
 
 .. toctree::
+   :caption: Lecture 1 - Use cases for model insights
+   :maxdepth: 1
 
-   usage
-   api
+   1. use-cases-for-model-insights.ipynb
+
+.. toctree::
+   :caption: Lecture 2 - Permutation importance
+   :maxdepth: 1
+
+   2. permutation-importance.ipynb
+
+.. toctree::
+   :caption: Lecture 3 - Partial plots
+   :maxdepth: 1
+
+   3. partial-plots.ipynb
+
+.. toctree::
+   :caption: Lecture 4 - Shap values
+   :maxdepth: 1
+
+   4. shap-values.ipynb
+
+.. toctree::
+   :caption: Lecture 5 - Advanced uses of shap values
+   :maxdepth: 1
+
+   5. advanced-uses-of-shap-values.ipynb
