@@ -26,10 +26,10 @@ Contents
    :caption: Lecture 4 - Shap values
    :maxdepth: 1
 
-   4. shap-values.ipynb
+   4. shap-values-for-insights-of-model-predictions.ipynb
 
 .. toctree::
-   :caption: Lecture 5 - Advanced uses of shap values
+   :caption: Lecture 4 - Shap values
    :maxdepth: 1
 
-   5. advanced-uses-of-shap-values.ipynb
+   4. shap-values-for-insights-of-model-predictions.html
